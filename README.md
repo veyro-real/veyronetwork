@@ -4,6 +4,12 @@ The Next.js content hub for **veyronetwork.xyz**. It explains agentic payments t
 
 The project contains 21 editorial guides, category navigation, related-article links, canonical metadata, Open Graph descriptions, JSON-LD, a sitemap, robots support, and persistent links to [veyro.casa](https://veyro.casa) and [tryveyro.casa](https://tryveyro.casa).
 
+## Domain map
+
+- `veyro.casa` — the main Veyro landing page.
+- `tryveyro.casa` — the live Veyro app and the demo link used by this content hub.
+- `veyro.wtf` — an additional custom domain for the same live `veyro-live` Railway service. It is not linked from the main landing page or used as the content hub's canonical demo URL.
+
 ## Run locally
 
 ```bash
