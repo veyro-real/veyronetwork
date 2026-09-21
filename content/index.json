@@ -1,0 +1,275 @@
+[
+  {
+    "slug": "agentic-payments",
+    "title": "Agentic Payments: AI Agents, Your Spending Rules",
+    "description": "Understand agentic payments through a simple task: give an AI agent a goal, set a spending limit, and see what happened. Explore Veyro on Solana.",
+    "category": "The basics",
+    "kicker": "Start here",
+    "related": [
+      "ai-agent-payments",
+      "agent-spending-limits",
+      "solana-agent-payments"
+    ],
+    "updated": "2026-09-21"
+  },
+  {
+    "slug": "agentic-commerce",
+    "title": "Agentic Commerce: From Your Request to an Action",
+    "description": "What agentic commerce means for users: research, selection, permission, and results. See how Veyro brings a simple task-and-budget experience to Solana.",
+    "category": "The basics",
+    "kicker": "The bigger picture",
+    "related": [
+      "agentic-payments",
+      "agentic-economy",
+      "visa-agentic-commerce"
+    ],
+    "updated": "2026-09-21"
+  },
+  {
+    "slug": "agentic-economy",
+    "title": "The Agentic Economy, Explained Simply",
+    "description": "Explore the agentic economy through one practical request. Learn how AI agents can do useful work while people keep control of the task and spending.",
+    "category": "The basics",
+    "kicker": "A useful starting point",
+    "related": [
+      "agentic-commerce",
+      "autonomous-payments",
+      "mastercard-agent-pay"
+    ],
+    "updated": "2026-09-21"
+  },
+  {
+    "slug": "autonomous-payments",
+    "title": "Autonomous Payments vs Recurring Payments",
+    "description": "Learn how autonomous payments differ from subscriptions, what authority an AI agent needs, and why one task should have a clear budget and stopping point.",
+    "category": "The basics",
+    "kicker": "Know the difference",
+    "related": [
+      "agent-payment-permission",
+      "agent-permission-expiry",
+      "understanding-agent-results"
+    ],
+    "updated": "2026-09-21"
+  },
+  {
+    "slug": "ai-agent-payments",
+    "title": "Can AI Agents Spend Money for You?",
+    "description": "How AI agent payments work in plain English. Separate research, recommendations, and spending, then explore Veyro’s task-and-limit demo on Solana.",
+    "category": "The basics",
+    "kicker": "From a question to an action",
+    "related": [
+      "agentic-payments",
+      "writing-agent-prompts",
+      "wallet-connection-and-permission"
+    ],
+    "updated": "2026-09-21"
+  },
+  {
+    "slug": "search-x-with-an-agent",
+    "title": "Search X with an AI Agent | A Practical Guide",
+    "description": "Give an AI agent a clearer X search task. Learn what to include, how to inspect a candidate, and how live research differs from a prepared demo example.",
+    "category": "Using an agent",
+    "kicker": "Find a better starting point",
+    "related": [
+      "writing-agent-prompts",
+      "best-meme-coin-search",
+      "checking-meme-coin-candidates"
+    ],
+    "updated": "2026-09-21"
+  },
+  {
+    "slug": "writing-agent-prompts",
+    "title": "How to Write a Prompt for a Spending Agent",
+    "description": "Write a short, useful agent prompt with a clear source, goal, and spending ceiling. Examples for a Solana meme coin search without complicated setup.",
+    "category": "Using an agent",
+    "kicker": "Say what you mean",
+    "related": [
+      "search-x-with-an-agent",
+      "agent-spending-limits",
+      "ai-agent-payments"
+    ],
+    "updated": "2026-09-21"
+  },
+  {
+    "slug": "best-meme-coin-search",
+    "title": "What “Best Meme Coin” Means in an AI Search",
+    "description": "Understand what an AI meme coin ranking can tell you. Define useful search criteria, inspect evidence, and keep predictions separate from spending limits.",
+    "category": "Using an agent",
+    "kicker": "Make the question clearer",
+    "related": [
+      "checking-meme-coin-candidates",
+      "search-x-with-an-agent",
+      "agent-spending-limits"
+    ],
+    "updated": "2026-09-21"
+  },
+  {
+    "slug": "checking-meme-coin-candidates",
+    "title": "How to Check an AI Meme Coin Candidate",
+    "description": "Review an AI-selected meme coin by separating token identity, source evidence, and transaction status. A practical guide for understanding a Solana result.",
+    "category": "Using an agent",
+    "kicker": "Read the evidence",
+    "related": [
+      "best-meme-coin-search",
+      "solana-agent-payments",
+      "agent-transaction-receipts"
+    ],
+    "updated": "2026-09-21"
+  },
+  {
+    "slug": "agent-spending-limits",
+    "title": "AI Agent Spending Limits: What $100 Covers",
+    "description": "Understand AI agent spending limits: ceilings, total budgets, remaining allowances, and fees. Learn what “spend up to $100” should mean before an action.",
+    "category": "Your controls",
+    "kicker": "Set the boundary",
+    "related": [
+      "agent-payment-permission",
+      "stablecoins-and-agent-budgets",
+      "stopping-an-agent"
+    ],
+    "updated": "2026-09-21"
+  },
+  {
+    "slug": "agent-payment-permission",
+    "title": "AI Agent Payment Permission, Explained",
+    "description": "Understand the difference between an agent prompt and permission to spend. Learn how amount, action, and time define a task you can stay in control of.",
+    "category": "Your controls",
+    "kicker": "Your authority, clearly defined",
+    "related": [
+      "wallet-connection-and-permission",
+      "agent-spending-limits",
+      "agent-permission-expiry"
+    ],
+    "updated": "2026-09-21"
+  },
+  {
+    "slug": "wallet-connection-and-permission",
+    "title": "Wallet Connection vs Permission to Spend",
+    "description": "Learn what to check when connecting a wallet to an AI agent. Understand account connection, action requests, network context, and ending spending authority.",
+    "category": "Your controls",
+    "kicker": "Before you connect",
+    "related": [
+      "agent-payment-permission",
+      "stopping-an-agent",
+      "solana-agent-payments"
+    ],
+    "updated": "2026-09-21"
+  },
+  {
+    "slug": "stopping-an-agent",
+    "title": "Stopping an AI Agent: What Happens Next?",
+    "description": "Understand stopping research, revoking future spending permission, and checking an action already submitted. A clear guide to staying in control of an agent.",
+    "category": "Your controls",
+    "kicker": "Know where the task ends",
+    "related": [
+      "agent-permission-expiry",
+      "agent-transaction-receipts",
+      "why-an-agent-stops"
+    ],
+    "updated": "2026-09-21"
+  },
+  {
+    "slug": "agent-permission-expiry",
+    "title": "Why AI Agent Spending Permission Expires",
+    "description": "Learn why an AI spending permission needs an end time, how expiry differs from task completion, and when a fresh decision is needed before another action.",
+    "category": "Your controls",
+    "kicker": "Put a time limit on permission",
+    "related": [
+      "stopping-an-agent",
+      "agent-payment-permission",
+      "understanding-agent-results"
+    ],
+    "updated": "2026-09-21"
+  },
+  {
+    "slug": "understanding-agent-results",
+    "title": "How to Read an AI Agent’s Result",
+    "description": "Understand a candidate, an allowed or denied action, a pending transaction, and a completed result. Know what your AI agent actually did before trying again.",
+    "category": "Using an agent",
+    "kicker": "Make sense of the outcome",
+    "related": [
+      "why-an-agent-stops",
+      "agent-transaction-receipts",
+      "checking-meme-coin-candidates"
+    ],
+    "updated": "2026-09-21"
+  },
+  {
+    "slug": "agent-transaction-receipts",
+    "title": "AI Agent Transaction Receipts on Solana",
+    "description": "Read an AI agent transaction receipt: identify the right action, check status, compare the asset, and understand what a completed transaction can establish.",
+    "category": "On Solana",
+    "kicker": "Follow the action",
+    "related": [
+      "understanding-agent-results",
+      "solana-agent-payments",
+      "why-an-agent-stops"
+    ],
+    "updated": "2026-09-21"
+  },
+  {
+    "slug": "why-an-agent-stops",
+    "title": "Why an AI Agent Stops Without Spending",
+    "description": "Find out why an agent may stop: missing research, a spending boundary, an unsupported action, or an unresolved transaction. Choose the right next step.",
+    "category": "Using an agent",
+    "kicker": "A stop can be the right result",
+    "related": [
+      "understanding-agent-results",
+      "agent-spending-limits",
+      "agent-permission-expiry"
+    ],
+    "updated": "2026-09-21"
+  },
+  {
+    "slug": "solana-agent-payments",
+    "title": "Solana Agent Payments, Without the Complexity",
+    "description": "Understand the Solana context behind Veyro: token identity, transaction results, network fees, and a simple instruction-and-budget experience for users.",
+    "category": "On Solana",
+    "kicker": "The network underneath",
+    "related": [
+      "stablecoins-and-agent-budgets",
+      "agent-transaction-receipts",
+      "agentic-payments"
+    ],
+    "updated": "2026-09-21"
+  },
+  {
+    "slug": "stablecoins-and-agent-budgets",
+    "title": "Stablecoins and AI Agent Budgets: USDC Explained",
+    "description": "Understand what a USDC-denominated agent budget means, how a limit differs from funding, and why purchase amounts and total costs need clear explanations.",
+    "category": "On Solana",
+    "kicker": "Understand the amount",
+    "related": [
+      "agent-spending-limits",
+      "solana-agent-payments",
+      "wallet-connection-and-permission"
+    ],
+    "updated": "2026-09-21"
+  },
+  {
+    "slug": "visa-agentic-commerce",
+    "title": "Visa Intelligent Commerce: A User’s Guide",
+    "description": "Learn what Visa says about agentic commerce, why permission still matters, and how to separate industry developments from Veyro’s current Solana experience.",
+    "category": "The wider picture",
+    "kicker": "Industry context",
+    "related": [
+      "mastercard-agent-pay",
+      "agentic-commerce",
+      "agent-payment-permission"
+    ],
+    "updated": "2026-09-21"
+  },
+  {
+    "slug": "mastercard-agent-pay",
+    "title": "Mastercard Agent Pay: What It Means for Users",
+    "description": "Explore Mastercard Agent Pay and its machine-payments initiative. Understand consent, spending visibility, and the distinction from Veyro’s own product.",
+    "category": "The wider picture",
+    "kicker": "Industry context",
+    "related": [
+      "visa-agentic-commerce",
+      "agentic-economy",
+      "agent-spending-limits"
+    ],
+    "updated": "2026-09-21"
+  }
+]

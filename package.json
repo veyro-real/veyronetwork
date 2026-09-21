@@ -1,0 +1,27 @@
+{
+  "name": "veyro-network",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --hostname 127.0.0.1",
+    "build": "next build --webpack",
+    "start": "next start --hostname 0.0.0.0",
+    "typecheck": "tsc --noEmit",
+    "content": "node scripts/prepare-content.mjs",
+    "predev": "npm run content",
+    "prebuild": "npm run content",
+    "check:seo": "node scripts/check-seo.mjs"
+  },
+  "dependencies": {
+    "framer-motion": "^13.2.0",
+    "next": "16.3.0",
+    "react": "19.2.8",
+    "react-dom": "19.2.8"
+  },
+  "devDependencies": {
+    "@types/node": "22.20.1",
+    "@types/react": "19.2.17",
+    "@types/react-dom": "19.2.3",
+    "typescript": "5.9.3"
+  }
+}
